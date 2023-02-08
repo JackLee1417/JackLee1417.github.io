@@ -4,49 +4,23 @@
   
     
     <entry>
-      <title>vscode</title>
-      <link href="/2023/02/07/vscodexide/"/>
-      <url>/2023/02/07/vscodexide/</url>
+      <title>教程推荐 1</title>
+      <link href="/2023/02/08/xinjianwenz/"/>
+      <url>/2023/02/08/xinjianwenz/</url>
       
-        <content type="html"><![CDATA[<p>vscode</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>shadiuhasdh</title>
-      <link href="/2023/02/07/shadiuhasdh/"/>
-      <url>/2023/02/07/shadiuhasdh/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>disanpian</title>
-      <link href="/2023/02/07/disanpian/"/>
-      <url>/2023/02/07/disanpian/</url>
-      
-        <content type="html"><![CDATA[<p>大数据库打不开就按三百多斤八九八说不定就爱上</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="教程推荐"><a href="#教程推荐" class="headerlink" title="教程推荐"></a>教程推荐</h2><h3 id="B站上有许多教程，可以搜索关键字hexo-butterfly"><a href="#B站上有许多教程，可以搜索关键字hexo-butterfly" class="headerlink" title="B站上有许多教程，可以搜索关键字hexo+butterfly"></a>B站上有许多教程，可以搜索关键字hexo+butterfly</h3><pre><code>可以观看[Fomalhaut](https://space.bilibili.com/220757832)的视频，教你如何从零搭建。如果你有疑问，也可以发邮件到我的邮箱，我看到的话会帮你解答</code></pre>]]></content>
       
       
       <categories>
           
-          <category> feilei1 </category>
+          <category> 网站搭建 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> tag1 </tag>
+            <tag> 教程 </tag>
             
         </tags>
       
@@ -55,32 +29,25 @@
     
     
     <entry>
-      <title>xinjianwenz</title>
-      <link href="/2023/02/07/xinjianwenz/"/>
-      <url>/2023/02/07/xinjianwenz/</url>
+      <title>搭建的第一个网站</title>
+      <link href="/2023/02/07/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/02/07/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<p>第二个文章</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>My New Post</title>
-      <link href="/2023/02/07/My-New-Post/"/>
-      <url>/2023/02/07/My-New-Post/</url>
-      
-        <content type="html"><![CDATA[<p>这里是正文对吧</p>]]></content>
+        <content type="html"><![CDATA[<p>搭建的第一个个人博客网站，使用hexo框架+butterfly主题，托管到GitHub上实现访问</p>]]></content>
       
       
       <categories>
           
-          <category> feilei1 </category>
+          <category> 网站搭建 </category>
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> 网站搭建 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -96,7 +63,7 @@
       
       <categories>
           
-          <category> feilei1 </category>
+          <category> 网站搭建 </category>
           
       </categories>
       
