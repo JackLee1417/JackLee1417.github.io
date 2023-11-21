@@ -9,22 +9,17 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
-  <!-- 这里是自定义导航栏 -->
-  <nav>
-    <a href="#">首页</a>
-    <a href="#/page/_siderbar.md">文章</a>
-  </nav>
-  <div id="app"></div>
-  <!-- 这里是自定义导航栏 -->
-
   <div id="app"></div>
   <script>
     window.$docsify = {
       loadSidebar: true,
+      subMaxLevel: 3,
       coverpage: true,
-      logo: '/img/Snipaste_2023-11-18_23-55-23.png',
+      auto2top: true,
+      // logo: '_media/logo.svg',
       name: 'JackLee',
-      repo: ''
+      repo: 'https://github.com/JackLee1417/JackLee1417.github.io.git',
+      // themeColor: '#3F51B5'
     }
   </script>
   <!-- Docsify v4 -->
