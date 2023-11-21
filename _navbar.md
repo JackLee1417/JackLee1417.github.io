@@ -1,4 +1,4 @@
-<!-- docs/_sidebar.md -->
+<!-- _navbar.md -->
 
 * [首页](/)
 * [文章](/zh-cn/)
