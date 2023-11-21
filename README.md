@@ -1,5 +1,3 @@
-# 笔记
+# 首页
 
 > An awesome project.
-I like it.
-
