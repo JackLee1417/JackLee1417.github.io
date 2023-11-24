@@ -1,6 +1,5 @@
-<!-- _navbar.md -->
-
-* [首页](/)
-* [文章](/zh-cn/)
+* [首页](/#/)
+* [文档](/zh-cn/README.md)
+* [绘画](/draw/README.md)
 * [关于](/about.md)
-* [友情链接](/link.md)
+* [link](/link.md)
